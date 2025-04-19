@@ -1,6 +1,6 @@
 # 👽 Rafael Pedroso
 **Seja bem-vindo ao meu perfil!**
-> “A tecnologia vai reinventar o negócio, mas as relações humanas continuarão a ser a chave para o sucesso.” – Stephen Covey🪄
+> “A tecnologia vai reinventar o negócio, mas as relações humanas continuarão a ser a chave para o sucesso.” – Stephen Covey
 
 Oi, eu sou o Rafael, formado em Engenharia Agronômica, me tornei um estudante de tecnologia e atualmente estou em migração de carreira. 
 Aqui compartilharei projetos, ideias e experimentos para poder me aprofundar cada vez mais. Espero poder contribuir um pouco e aprender bastante.
@@ -21,3 +21,8 @@ Aqui compartilharei projetos, ideias e experimentos para poder me aprofundar cad
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <br/>
+
+---
+## 📊 Estatísticas
+| ![Rafael GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafapeds&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rafapeds&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9) |
+| --- | --- |
