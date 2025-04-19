@@ -1,6 +1,6 @@
 # 👽 Rafael Pedroso
 **Seja bem-vindo ao meu perfil!**
-> "Qualquer tecnologia suficientemente avançada é indistinguível da mágica." – Arthur C. Clarke 🎩🪄
+> “A tecnologia vai reinventar o negócio, mas as relações humanas continuarão a ser a chave para o sucesso.” – Stephen Covey🪄
 
 Oi, eu sou o Rafael, formado em Engenharia Agronômica, me tornei um estudante de tecnologia e atualmente estou em migração de carreira. 
 Aqui compartilharei projetos, ideias e experimentos para poder me aprofundar cada vez mais. Espero poder contribuir um pouco e aprender bastante.
